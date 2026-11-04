@@ -1,0 +1,6 @@
+langchain==1.4.8
+langchain-core==1.7.4
+langchain-openai==1.7.3
+pydantic==2.14.2
+python-dotenv==1.2.4
+rich==15.0.0
